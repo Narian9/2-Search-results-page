@@ -27,6 +27,7 @@ a:hover {
 }
 nav button {
     background: none;
+    padding: 7px;
     border: 0;
     outline: none;
 }

@@ -1,0 +1,28 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.top-nav{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.items-top{
+    justify-content: space-around;
+}
+.nav-top > ul li{
+    display: inline-block;
+    list-style: none;
+}
+.logo-top h1{  
+    font-size: 50px;
+    display: inline;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color:transparent;
+    background-image: linear-gradient(.25turn, #4285F4 20.9%,#EA4335 23%, #EA4335 39.6%,#FBBC05 39%,#FBBC05 56.6%,#4285F4 59%,#4285F4 72.6%,#34a853 75.5%, #34a853 83%,  #EA4335 84%  );
+
+}
+.bottom-nav{
+    display: grid;
+    justify-items: start;
+}
