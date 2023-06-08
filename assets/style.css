@@ -25,6 +25,9 @@ a:link{
 a:hover {
     text-decoration: underline;
 }
+.logo a:hover {
+    text-decoration:none;
+}
 nav button {
     background: none;
     padding: 7px;
